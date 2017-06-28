@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "user-profile-react-js-component",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "3e3faeee-005b-4bd6-b5d2-500dbfa110e5"
+  }
+}

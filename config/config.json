@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/userProfileStickerSheet/UserProfileStickerSheetWebPart.js",
+      "manifest": "./src/webparts/userProfileStickerSheet/UserProfileStickerSheetWebPart.manifest.json",
+      "outputPath": "./dist/user-profile-sticker-sheet.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "userProfileStickerSheetStrings": "webparts/userProfileStickerSheet/loc/{locale}.js"
+  }
+}

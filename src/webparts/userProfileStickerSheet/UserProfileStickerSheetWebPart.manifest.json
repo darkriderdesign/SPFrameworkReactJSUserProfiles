@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "bd8c8465-1fb4-47f2-806b-01f61520d1de",
+  "alias": "UserProfileStickerSheetWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "bd8c8465-1fb4-47f2-806b-01f61520d1de",
+    "group": { "default": "Under Development" },
+    "title": { "default": "UserProfile_Sticker_Sheet" },
+    "description": { "default": "User Profile Sticker Sheet of All SVG Components" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "UserProfile_Sticker_Sheet"
+    }
+  }]
+}
